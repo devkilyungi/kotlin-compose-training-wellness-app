@@ -6,7 +6,7 @@
 - Please note that the descriptions and advice provided are for illustrative purposes and should be customized based on your specific fitness goals and requirements.
 
 ## Previews
-<!--
+
 <table>
     <tr>
       <td>Light mode</td>
@@ -21,7 +21,7 @@
     </td>
   </tr>
 </table>
--->
+
 ## Credits
 
 <a href='https://pngtree.com/so/barbell'>Launcher Icon from pngtree.com/</a>
