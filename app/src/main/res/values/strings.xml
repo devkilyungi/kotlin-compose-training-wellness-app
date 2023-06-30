@@ -41,8 +41,6 @@
     <string name="day_ten_exercise">Increase flexibility with stretching</string>
     <string name="day_ten_exercise_description">Dedicate time to stretching exercises that target major muscle groups to improve flexibility, prevent injuries, and enhance range of motion.</string>
 
-    <!-- Continue with the remaining 20 items, replacing "day_" with the respective numbers and "day_exercise" and "day_exercise_description" with the corresponding exercise and exercise description for each day. -->
-
     <string name="day_eleven">Day 11</string>
     <string name="day_eleven_exercise">Boost lower body strength</string>
     <string name="day_eleven_exercise_description">Perform exercises like squats, lunges, and leg presses to strengthen your lower body muscles, including the glutes, quads, and hamstrings.</string>
