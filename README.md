@@ -5,6 +5,23 @@
 
 - Please note that the descriptions and advice provided are for illustrative purposes and should be customized based on your specific fitness goals and requirements.
 
+## Previews
+<!--
+<table>
+    <tr>
+      <td>Light mode</td>
+      <td>Dark mode</td>
+    </tr>
+  <tr>
+    <td>
+      <img src="screenshot-light-mode.jpg" alt="light mode screenshot of application" height="450px" />
+    </td>
+    <td>
+      <img src="screenshot-dark-mode.jpg" alt="dark mode screenshot of application" height="450px" />
+    </td>
+  </tr>
+</table>
+-->
 ## Credits
 
 <a href='https://pngtree.com/so/barbell'>Launcher Icon from pngtree.com/</a>
